@@ -1,0 +1,15 @@
+.para1{text-align: left;
+}
+.para2{ text-align: right;
+ }
+.para3{text-indent: 700px;}
+.para4{text-align: justify;
+}
+.para5{text-align: right;}
+.div1{border: 6px groove black;
+padding: 20px;
+margin: 40px; 
+text-align: justify;}
+.par1{
+	text-align: justify;
+}
